@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica;
+}
+
+header {
+  background-image: url("images/pattern.jpeg")
+}
+
+header p {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
