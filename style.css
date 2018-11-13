@@ -3,11 +3,21 @@ body {
 }
 
 header {
-  background-image: url("images/pattern.jpeg")
+  background-image: url("images/pattern.jpeg");
+  text-align: center;
 }
 
 header p {
   font-size: 100px;
   font-weight: bold;
   color: khaki;
+}
+
+.header {
+  font-size: 32px;
+  color: white;
+}
+
+.Brushes .header {
+  background-color: mediumspringgreen;
 }
