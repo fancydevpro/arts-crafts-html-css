@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica;
+  font-size: 22px;
 }
 
 header {
@@ -28,4 +29,9 @@ header p {
 
 .Paint .header {
   background-color: skyblue;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
 }
